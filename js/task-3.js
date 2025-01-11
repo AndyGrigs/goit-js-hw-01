@@ -1,3 +1,6 @@
+
+console.log("task 3");
+
 function getElementWidth(content, padding, border) {
     const contentWidth = parseFloat(content);
     const paddingWidth = parseFloat(padding) * 2; // Падінг з обох сторін
